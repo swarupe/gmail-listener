@@ -1,0 +1,17 @@
+{
+  "name": "polynomial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/pubsub": "^2.6.0",
+    "dotenv": "^8.2.0",
+    "googleapis": "^39.2.0"
+  }
+}

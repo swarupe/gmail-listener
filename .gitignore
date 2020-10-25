@@ -1,0 +1,10 @@
+# credentials
+credentials.json
+service-token.json
+token.json
+
+# editor files
+.vscode
+
+# dependencies
+node_modules/
