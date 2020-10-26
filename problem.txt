@@ -1,9 +1,4 @@
-Gmail box
-    -> mail events  (keep track of events on mail)
-    -> once event is received if any keyword meeting is found capture mail and push to db
-    
-    -> Attchment is there in the mail upload to drive and save link to DB
-
-pramod@polynomial.ai
-
-
+Gmail Event Listener
+    -> Watch on the mail received in the authorized inbox
+    -> once event is received if any keyword meeting is found in the mail, push mail to DB
+    -> If email attachment is present then upload attachment to drive and save link to the DB
